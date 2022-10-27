@@ -1,6 +1,6 @@
 HI! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
-<img src="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm" alt="GIF" width="500">
+<img src="https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=790b7611b6ba040c02d42eed0e2d9ee60686b1bfbbcae8a4&rid=giphy.gif&ct=g" alt="GIF" width="500">
 
 👨🏻‍💻 About Me:
 
