@@ -21,9 +21,9 @@ HI! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259
 
 🎯 Life motto: "Dig deeper"
 
-👀 I’m interested in sustainability and belong to Sustainability Squad
+👀  I’m interested in sustainability and belong to Sustainability Squad
 
-📫 How to reach me: https://www.linkedin.com/in/goda-beinortaite/
+📫 Reach me: https://www.linkedin.com/in/goda-beinortaite/
 
 
 <!---
