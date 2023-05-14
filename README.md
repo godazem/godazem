@@ -23,10 +23,10 @@ HI! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259
 
 👀  I’m interested in sustainability and belong to Sustainability Squad
 
-📫 Reach me: https://www.linkedin.com/in/goda-beinortaite/
+📫 Reach me: https://www.linkedin.com/in/goda-zemaite
 
 
 <!---
-godabei/godabei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+godazem/godazem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
